@@ -1,3 +1,4 @@
+![GIF Description](CatGif.gif)
 # 💫 About Me:
 AI & Software Architecture Enthusiast | Passionate about building scalable, efficient systems | Always exploring new technologies
 
