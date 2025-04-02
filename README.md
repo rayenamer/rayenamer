@@ -1,4 +1,3 @@
-
 **Code runs deep, no logs, no traces, just raw performance** 
 
 **I engineer systems that scale like a silent revolution**
@@ -26,7 +25,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=rayenamer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
