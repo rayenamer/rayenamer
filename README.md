@@ -2,7 +2,7 @@
 
 **Code runs deep—no logs, no traces, just raw performance** | **Designing systems that scale like a silent revolution**
 
-**⚠️ WARNING: My commits leave no debug traces. Systems I touch don't crash—they disappear.**
+**⚠️ WARNING: My commits leave no debug traces. Systems I touch don't crash,they disappear.**
 
 
 # 💻 Tech Stack:
