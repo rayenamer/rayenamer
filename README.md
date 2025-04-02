@@ -1,4 +1,3 @@
-![GIF Description](CatGif.gif)
 
 **Code runs deep—no logs, no traces, just raw performance** 
 
