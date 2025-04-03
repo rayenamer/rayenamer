@@ -29,7 +29,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rayenamer&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### **🐍 The Code Devours. The System Obeys.**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake.svg" />
