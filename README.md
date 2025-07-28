@@ -1,7 +1,7 @@
 
   
 **"Talk is cheap. Show me the code."**  
-    Linus Torvalds 
+   Linus Torvalds 
 
   
 # 💻 Tech Stack:
