@@ -39,7 +39,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColo
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColo)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### **douda wala 7nach fisa3 akhtar** 
