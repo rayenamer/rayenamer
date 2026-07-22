@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### **🐍 The Code Devours. The System Obeys 🐍** 
+### **douda wala 7nach fisa3 akhtar** 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake.svg" />
