@@ -8,21 +8,22 @@
 
 ### 💹 Quantitative Finance
 
-![Asset Pricing](https://img.shields.io/badge/Asset_Pricing-0F172A?style=for-the-badge)
-![Risk Modeling](https://img.shields.io/badge/Risk_Modeling-7C3AED?style=for-the-badge)
-![Portfolio Optimization](https://img.shields.io/badge/Portfolio_Optimization-15803D?style=for-the-badge)
-![Derivative Pricing](https://img.shields.io/badge/Derivative_Pricing-1E3A8A?style=for-the-badge)
-![Market Data Engineering](https://img.shields.io/badge/Market_Data-0369A1?style=for-the-badge)
-![Monte Carlo Simulation](https://img.shields.io/badge/Monte_Carlo-EA580C?style=for-the-badge)
-![Time Series Forecasting](https://img.shields.io/badge/Time_Series-F59E0B?style=for-the-badge)
+![Computational Finance](https://img.shields.io/badge/Computational_Finance-0F172A?style=for-the-badge)
+![Quantitative Modeling](https://img.shields.io/badge/Quantitative_Modeling-7C3AED?style=for-the-badge)
+![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-15803D?style=for-the-badge)
 
-### 🧠 AI • Quant
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧠 AI • Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge)
 
 ### ⚙️ Software Engineering
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,6 +41,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColo)
+![MLOps](https://img.shields.io/badge/MLOps-0F766E?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### **douda wala 7nach fisa3 akhtar** 
