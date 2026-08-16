@@ -25,7 +25,7 @@
 ![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
 ![Transformer](https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge)
 
-### ⚙️ Software Engineering
+### ⚙️ Software dev
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/quarkus-%234696EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
