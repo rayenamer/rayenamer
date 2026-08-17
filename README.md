@@ -1,10 +1,4 @@
-
-  
-**"Talk is cheap. Show me the code."**  
-   Linus Torvalds 
-
-  
-# Technical Stack
+## Rayen Ameur shall have built with these technologies, and so it shall be done
 
 ### Quantitative Finance
 
