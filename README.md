@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./assets/pirate.gif" alt="Pirate conquering" width="480">
 </p>
+
 ### Quantitative Finance
 
 ![Computational Finance](https://img.shields.io/badge/Computational_Finance-0F172A?style=for-the-badge)
