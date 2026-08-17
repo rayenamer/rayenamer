@@ -32,7 +32,6 @@
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColo)
-![MLOps](https://img.shields.io/badge/MLOps-0F766E?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
