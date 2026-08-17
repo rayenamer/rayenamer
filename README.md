@@ -1,5 +1,5 @@
-## Rayen Ameur shall have built with these technologies, and so it shall be done
-
+## Rayen Ameur shall build with these technologies.
+## And so it shall be done.
 ### Quantitative Finance
 
 ![Computational Finance](https://img.shields.io/badge/Computational_Finance-0F172A?style=for-the-badge)
