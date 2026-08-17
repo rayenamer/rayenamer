@@ -1,4 +1,4 @@
-## Rayen Ameur shall build with these technologies.
+## Rayen Ameur shall build with these technologies.<br>
 ## And so it shall be done.
 ### Quantitative Finance
 
