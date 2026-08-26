@@ -45,4 +45,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake.svg" />
 </picture>
 everything we perceive is real 
+i can edit using my phone?
 
