@@ -4,20 +4,22 @@
   <img src="./assets/pirate.gif" alt="Pirate conquering" width="480">
 </p>
 
-### Quantitative Finance
+### Risk Modeling
+![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-0F172A?style=for-the-badge)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-7C3AED?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-15803D?style=for-the-badge)
+![Extreme Value Theory](https://img.shields.io/badge/Extreme_Value_Theory-0369A1?style=for-the-badge)
+![Value at Risk](https://img.shields.io/badge/Value_at_Risk-9333EA?style=for-the-badge)
+![Insurance Risk](https://img.shields.io/badge/Insurance_Risk-EF4444?style=for-the-badge)
+![Credit Risk](https://img.shields.io/badge/Credit_Risk-3B82F6?style=for-the-badge)
+![Stress Testing](https://img.shields.io/badge/Stress_Testing-F59E0B?style=for-the-badge)
 
-![Computational Finance](https://img.shields.io/badge/Computational_Finance-0F172A?style=for-the-badge)
-![Quantitative Modeling](https://img.shields.io/badge/Quantitative_Modeling-7C3AED?style=for-the-badge)
-![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-15803D?style=for-the-badge)
-
-### AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Generative AI & Reinforcement Learning
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0F172A?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-9333EA?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-EF4444?style=for-the-badge)
 
 ### Software dev
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
