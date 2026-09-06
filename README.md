@@ -24,7 +24,7 @@
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### **Meet Pyro, my virtual pet.** 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake-dark.svg" />
