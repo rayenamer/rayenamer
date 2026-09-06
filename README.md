@@ -8,13 +8,12 @@
 ![Market Risk](https://img.shields.io/badge/Market_Risk-DC2626?style=for-the-badge)
 ![Credit Risk](https://img.shields.io/badge/Credit_Risk-3B82F6?style=for-the-badge)
 ![Insurance Risk](https://img.shields.io/badge/Insurance_Risk-EF4444?style=for-the-badge)
-![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-0F172A?style=for-the-badge)
 ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-7C3AED?style=for-the-badge)
 
-### Generative AI & Reinforcement Learning
-![Reinforcement Learning](...)
+### Generative AI & LLM Engineering
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0F172A?style=for-the-badge)
 ![LLM Harness Engineering](https://img.shields.io/badge/LLM_Harness_Engineering-10B981?style=for-the-badge)
-![Vector Databases](...)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-EF4444?style=for-the-badge)
 
 ### Software & Infrastructure
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
