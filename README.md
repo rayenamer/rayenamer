@@ -1,8 +1,8 @@
-## Rayen Ameur shall build with these technologies.
-## And so it shall be done.
 <p align="center">
   <img src="./assets/pirate.gif" alt="Pirate conquering" width="480">
 </p>
+
+I am Rayen, and I build **financial systems and risk models**.
 
 ### Risk Modeling
 ![Market Risk](https://img.shields.io/badge/Market_Risk-DC2626?style=for-the-badge)
