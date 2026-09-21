@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/pirate.gif" alt="Pirate conquering" width="480">
-</p>
-
 ## I am Rayen, and I operate in financial systems and risk modeling.
 
 ### Risk Modeling
