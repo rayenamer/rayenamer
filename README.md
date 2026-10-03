@@ -1,4 +1,4 @@
-## I am Rayen, and I operate in financial systems and risk modeling.
+## I am Rayen, and I work in financial systems and risk modeling.
 
 ### Risk Modeling
 ![Market Risk](https://img.shields.io/badge/Market_Risk-DC2626?style=for-the-badge)
