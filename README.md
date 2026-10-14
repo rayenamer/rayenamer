@@ -12,9 +12,7 @@ Modeling uncertainty in markets and machines.
 </div>
 
 $$
-\underbrace{\mathbb{E}\left[e^{-\int_0^T V(X_t)\,dt}\, f(X_T)\right]}_{\text{markets}}
-\;=\;
-\underbrace{\int \mathcal{D}x\; e^{-S[x]}\, f(x_T)}_{\text{matter}}
+S[x] = \int_0^T \left(\tfrac{1}{2}\dot{x}_t^2 + V(x_t)\right) dt
 $$
 
 ---
