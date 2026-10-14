@@ -6,16 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=I+simulate+a+million+futures%E2%80%A6;%E2%80%A6to+survive+the+one+that+happens.;Stochastic+calculus+%E2%80%A2+Monte+Carlo+%E2%80%A2+Physical+AI;From+COBOL+mainframes+to+LLM+harnesses." alt="Typing intro" />
 </a>
 
-**Financial systems engineer & risk modeler.**
-I turn randomness into numbers that can be trusted, in markets, credit books, insurance portfolios, and the physical world.
+**Financial systems engineer & risk modeler.**<br>
+Modeling uncertainty in markets and machines.
 
 </div>
 
 $$
 dX_t = \mu(X_t,t)\,dt + \sigma(X_t,t)\,dW_t
+\quad\Longrightarrow\quad
+u(x,t) = \mathbb{E}\left[e^{-\int_t^T r(X_s)\,ds}\, g(X_T) \,\middle|\, X_t = x\right]
 $$
 
 ---
+
 ### Mathematical Modeling
 ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-7C3AED?style=for-the-badge)
 ![Stochastic Calculus](https://img.shields.io/badge/Stochastic_Calculus-0F172A?style=for-the-badge)
@@ -23,6 +26,7 @@ $$
 ![Extreme Value Theory](https://img.shields.io/badge/Extreme_Value_Theory-DC2626?style=for-the-badge)
 
 **Applied to**
+
 ![Market Risk](https://img.shields.io/badge/Market_Risk-DC2626?style=for-the-badge)
 ![Credit Risk](https://img.shields.io/badge/Credit_Risk-3B82F6?style=for-the-badge)
 ![Insurance Risk](https://img.shields.io/badge/Insurance_Risk-EF4444?style=for-the-badge)
@@ -41,6 +45,7 @@ $$
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
 
 ### **Meet Pyro, my virtual pet.** 
