@@ -25,12 +25,7 @@ $$
 ![Feynman–Kac](https://img.shields.io/badge/Feynman--Kac-1D4ED8?style=for-the-badge)
 ![Extreme Value Theory](https://img.shields.io/badge/Extreme_Value_Theory-DC2626?style=for-the-badge)
 
-**Applied to**
-
-![Market Risk](https://img.shields.io/badge/Market_Risk-DC2626?style=for-the-badge)
-![Credit Risk](https://img.shields.io/badge/Credit_Risk-3B82F6?style=for-the-badge)
-![Insurance Risk](https://img.shields.io/badge/Insurance_Risk-EF4444?style=for-the-badge)
-![Physics](https://img.shields.io/badge/Physics-F59E0B?style=for-the-badge)
+**Applied to Market Risk , Credit Risk , and the physical world**
 
 ### Generative AI & LLM Engineering
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0F172A?style=for-the-badge)
