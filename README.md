@@ -12,9 +12,9 @@ Modeling uncertainty in markets and machines.
 </div>
 
 $$
-dX_t = \mu(X_t,t)\,dt + \sigma(X_t,t)\,dW_t
-\quad\Longrightarrow\quad
-u(x,t) = \mathbb{E}\left[e^{-\int_t^T r(X_s)\,ds}\, g(X_T) \,\middle|\, X_t = x\right]
+\underbrace{\mathbb{E}\left[e^{-\int_0^T V(X_t)\,dt}\, f(X_T)\right]}_{\text{markets}}
+\;=\;
+\underbrace{\int \mathcal{D}x\; e^{-S[x]}\, f(x_T)}_{\text{matter}}
 $$
 
 ---
