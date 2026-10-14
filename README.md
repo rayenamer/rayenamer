@@ -11,10 +11,6 @@ Modeling uncertainty in markets and machines.
 
 </div>
 
-$$
-S[x] = \int_0^T \left(\tfrac{1}{2}\dot{x}_t^2 + V(x_t)\right) dt
-$$
-
 ---
 
 ### Mathematical Modeling
