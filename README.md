@@ -2,12 +2,8 @@
 
 # Hi, I'm Rayen
 
-<a href="https://github.com/rayenamer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=I+simulate+a+million+futures%E2%80%A6;%E2%80%A6to+survive+the+one+that+happens.;Stochastic+calculus+%E2%80%A2+Monte+Carlo+%E2%80%A2+Physical+AI;From+COBOL+mainframes+to+LLM+harnesses." alt="Typing intro" />
-</a>
 
-**Financial systems engineer & risk modeler.**<br>
-Modeling uncertainty in markets and machines.
+**I love Financial Systems | Credit & Market Risk Modelling**<br>
 
 </div>
 
@@ -18,8 +14,6 @@ Modeling uncertainty in markets and machines.
 ![Stochastic Calculus](https://img.shields.io/badge/Stochastic_Calculus-0F172A?style=for-the-badge)
 ![Feynman–Kac](https://img.shields.io/badge/Feynman--Kac-1D4ED8?style=for-the-badge)
 ![Extreme Value Theory](https://img.shields.io/badge/Extreme_Value_Theory-DC2626?style=for-the-badge)
-
-**Applied to Market Risk , Credit Risk , and the physical world**
 
 ### Generative AI & LLM Engineering
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0F172A?style=for-the-badge)
