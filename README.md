@@ -2,12 +2,15 @@
 
 # Hi, I'm Rayen
 
-
-**I love Financial Systems | Credit & Market Risk Modelling**<br>
+**I build Financial Systems | Credit & Market Risk Modelling**<br>
+Over the past 12 months, I've made:
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=rayenamer&show_icons=true&hide_title=true&include_all_commits=true)
 
 </div>
 
 ---
+
+### I Know These
 
 ### Mathematical Modeling
 ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-7C3AED?style=for-the-badge)
@@ -31,7 +34,7 @@
 
 ---
 
-### **Meet Pyro, my virtual pet.** 
+### **Meet Pyro, my virtual pet.**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayenamer/rayenamer/output/github-snake.svg" />
