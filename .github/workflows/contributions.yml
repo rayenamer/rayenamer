@@ -1,0 +1,54 @@
+name: Update Contribution Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch contribution count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FROM=$(date -u -d '1 year ago' +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+
+          COUNT=$(gh api graphql \
+            -f query='
+              query($from: DateTime!, $to: DateTime!) {
+                user(login: "rayenamer") {
+                  contributionsCollection(from: $from, to: $to) {
+                    contributionCalendar {
+                      totalContributions
+                    }
+                  }
+                }
+              }' \
+            -f from="$FROM" \
+            -f to="$TO" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          mkdir -p badges
+
+          echo "{\"schemaVersion\":1,\"label\":\"contributions (12 months)\",\"message\":\"$COUNT\",\"color\":\"blue\"}" \
+            > badges/contributions.json
+
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add badges/contributions.json
+          git diff --cached --quiet || (
+            git commit -m "Update contribution count"
+            git push
+          )
