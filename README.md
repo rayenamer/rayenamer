@@ -4,7 +4,8 @@
 
 **I build Financial Systems | Credit & Market Risk Modelling**<br>
 Over the past 12 months, I've made:
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=rayenamer&show_icons=true&hide_title=true&include_all_commits=true)
+
+![Contribution Graph](https://ghchart.rshah.org/rayenamer)
 
 </div>
 
