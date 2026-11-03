@@ -6,6 +6,7 @@
 Over the past 12 months, I've made:
 
 ![Contribution Graph](https://ghchart.rshah.org/rayenamer)
+![Contribution Count](https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Drayenamer&style=for-the-badge)
 
 </div>
 
