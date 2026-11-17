@@ -1,8 +1,6 @@
 <div align="center">
-
-# Hi, I'm Rayen
-
-# I build FINTECH
+<h1>Hi, I'm Rayen</h1>
+<h2>I build FINTECH</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
