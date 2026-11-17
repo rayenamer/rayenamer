@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi, I'm Rayen Ameur
-##I build FINTECH
+## I build FINTECH
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
