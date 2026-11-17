@@ -15,7 +15,7 @@
 ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI_(SHAP)-6A1B9A?style=flat-square)
 
-![Commits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frayenamer%2Frayenamer%2Fmain%2Fbadges%2Fcontributions.json&style=flat-square&logo=github&logoColor=white&label=I%20committed) times
+![GitHub Contributions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frayenamer%2Frayenamer%2Fmain%2Fbadges%2Fcontributions.json&style=flat-square&logo=github&logoColor=white)
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 
